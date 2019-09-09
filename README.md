@@ -1,0 +1,2 @@
+# Yelp_Image_Classification
+This database project appended processed data to large-scale 2.24 GB Yelp datasets file. I developed a Java program which sent HTTP requests to Google Cloud Vision API to get labels from 700 images. Then created a database with Java HyperSQL that obtained Yelp’s businesses, reviews, and photos. From that database, I was able to answer questions about the popularity of photos and attitude in reviews.
